@@ -1,0 +1,11 @@
+{
+    " nombreSuperHeroe" : " Spiderman" ,
+    " nombreReal" : " Peter Parker" ,
+    " edad" : 25,
+    " planetaOrigen" : " Tierra" ,
+    " debilidad" : " Radioactiva" ,
+    " poderes" : [ " Trepar paredes" , " Sentido arácnido" , " Super fuerza" ],
+    " aliados" : [ " Ironman" ] ,
+    " enemigos" : [ " Duende Verde" ],
+    " creador" : [ " Martin" ]
+}
